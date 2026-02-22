@@ -62,17 +62,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-📁 Project Structure
-
-diabetes-prediction-ml/
-│
-├── app.py
-├── diabetes-prediction.ipynb
-├── diabetes.csv
-├── diabetes_model.pkl
-├── scaler_svm.pkl
-├── requirements.txt
-└── README.md
 
 📈 Future Enhancements
 
